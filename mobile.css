@@ -28,16 +28,10 @@
     }
     section .first-div {
         width: 55%;
-        /* border: 3px solid blue; */
+
         border-right: transparent;
         margin: 0% auto;
-        border: 3px solid blue;
-        /* padding-left: 13%; */
-        
 
-
-        /* justify-content: center;/ */
-        /* padding-left: 25%; */
 
     }
     .section .b, .c, .d {
