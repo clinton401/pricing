@@ -13,7 +13,7 @@
         /* border: 2px solid black; */
     }
     .header .first-button {
-        width: 80%;
+        width: 90%;
 
     }
 
@@ -27,18 +27,25 @@
 
     }
     section .first-div {
-        width: 55%;
+        width: 80%;
 
         border-right: transparent;
-        margin: 0% auto;
+
 
 
     }
-    .section .b, .c, .d {
-        margin: 0 auto;
+    section .b, .c, .d {
+        /* margin: 0 auto; */
         padding-top: 20px;
     }
-    section .a {
-       margin: 0 auto;
+    
+    section h6 {
+      font-size: 16px;
+    }
+    section .first-h6 {
+        font-size: 17px;
+    }
+    section button {
+        font-size: 16px;
     }
 }
